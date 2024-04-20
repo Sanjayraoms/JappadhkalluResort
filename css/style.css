@@ -2971,3 +2971,13 @@ div.header h3{
     left:50%;
     top:-4px;
 }
+.carousel-item {
+    img {
+      height: 30vw;
+      object-fit: cover;
+      
+      @media (min-width: $bootstrap-sm) {
+        height: 350px;
+      }
+    }
+  }
