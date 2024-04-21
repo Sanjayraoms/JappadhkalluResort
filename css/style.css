@@ -2973,11 +2973,24 @@ div.header h3{
 }
 .carousel-item {
     img {
-      height: 30vw;
       object-fit: cover;
       
-      @media (min-width: $bootstrap-sm) {
-        height: 350px;
+      @media (min-width: 576px) {
+        height: 550px;
+      }
+    }
+  }
+  #gallery {
+    img {
+      height: 75vw;
+      object-fit: cover;
+      
+      @media (min-width: 576px) {
+        height: 35vw;
+      }
+      
+      @media (min-width: 992px) {
+        height: 18vw;
       }
     }
   }
