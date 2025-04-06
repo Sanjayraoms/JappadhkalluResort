@@ -1,5 +1,5 @@
 # JappadhkalluResort
 Static website for the Jappadhkallu resort
 
-Visit website : jappadhkallu.in
+Visit website : [jappadhkallu.in](https://jappadhkallu.in/)
 
